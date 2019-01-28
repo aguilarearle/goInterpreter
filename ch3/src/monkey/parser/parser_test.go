@@ -2,8 +2,8 @@ package parser
 
 import (
 	"fmt"
-	"goInterpreter/ch2/src/monkey/ast"
-	"goInterpreter/ch2/src/monkey/lexer"
+	"goInterpreter/ch3/src/monkey/ast"
+	"goInterpreter/ch3/src/monkey/lexer"
 	"testing"
 )
 
